@@ -1,0 +1,9 @@
+bin
+docs
+x47
+LICENSE.md
+README.md
+requirements.txt
+setup.py
+tests
+venv
