@@ -1,9 +1,5 @@
 bin
-docs
-x47
-LICENSE.md
-README.md
-requirements.txt
-setup.py
-tests
+x47/__pychache__
 venv
+tests/__pycache__
+tests/test_game2.py
