@@ -1,11 +1,9 @@
-import pytest
-import ex47
+# A first testing on something.
 
-def setup():
-    print('setup!')
+from ex47 import start
 
-def teardown():
-    print('Teardown')
+def test_what_is():
+    assert 'badger'
 
-def test_basic():
-    print('I ran!', end = '')
+def test_this():
+    assert 15
